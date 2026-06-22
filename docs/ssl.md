@@ -18,7 +18,7 @@
 
 ## aapanel（宝塔海外版）
 
-1. 保证Bepusdt安装成功，监听端口推荐`8080`(避免与Nginx冲突)。
+1. 保证Bepusdt安装成功，监听端口推荐`8112`(避免与Nginx冲突)。
 2. 添加DNS解析，正常添加一个网站，按图操作。
    ![添加DNS解析](./images/aapanel_1.png)
 3. 点击刚才添加的网站配置，按提示申请SSL证书，并且打开右上角的`Force HTTPS`

@@ -32,7 +32,7 @@ var LogFlag = &cli.StringFlag{
 
 var ListenFlag = &cli.StringFlag{
 	Name:    "listen",
-	Value:   ":8080",
-	Usage:   "监听地址，格式为 ip:port，例如 :8080",
+	Value:   ":8112",
+	Usage:   "监听地址，格式为 ip:port，例如 :8112",
 	Sources: cli.EnvVars("LISTEN"),
 }

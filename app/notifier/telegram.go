@@ -209,14 +209,6 @@ func (t *Telegram) Welcome() {
 `
 	t.sendMessage(&bot.SendMessageParams{
 		Text: text,
-		ReplyMarkup: models.InlineKeyboardMarkup{
-			InlineKeyboard: [][]models.InlineKeyboardButton{
-				{
-					{Text: "📢 关注频道", URL: "https://t.me/BEpusdtChannel"},
-					{Text: "💬 社区交流", URL: "https://t.me/BEpusdtChat"},
-				},
-			},
-		},
 	})
 }
 

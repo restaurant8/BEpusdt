@@ -14,22 +14,6 @@
     </div>
 
     <div class="cards-row">
-      <!-- 社区交流 -->
-      <div class="card">
-        <div class="card-title">🏝️ 社区交流</div>
-        <div class="divider"></div>
-        <ul class="link-list">
-          <li>
-            <span class="label">Telegram 群组</span>
-            <a href="https://t.me/BEpusdtChat" target="_blank" class="link">https://t.me/BEpusdtChat</a>
-          </li>
-          <li>
-            <span class="label">Telegram 频道</span>
-            <a href="https://t.me/BEpusdtChannel" target="_blank" class="link">https://t.me/BEpusdtChannel</a>
-          </li>
-        </ul>
-      </div>
-
       <!-- 项目文档 -->
       <div class="card">
         <div class="card-title">📄 项目文档</div>

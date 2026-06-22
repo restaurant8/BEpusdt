@@ -52,10 +52,10 @@
 
 ## 🚀 快捷启动
 
-Docker 快速启动，执行完命令打开地址`http://服务器IP:8080`即可看到初始页面
+Docker 快速启动，执行完命令打开地址`http://服务器IP:8112`即可看到初始页面
 
 ```bash  
-docker run -d --restart=unless-stopped -p 8080:8080 v03413/bepusdt:latest
+docker run -d --restart=unless-stopped -p 8112:8112 ghcr.io/restaurant8/bepusdt:latest
 ```
 ## 📃 技术文档  
 
@@ -78,15 +78,6 @@ docker run -d --restart=unless-stopped -p 8080:8080 v03413/bepusdt:latest
 - [Telegram 通知 Chat ID 获取教程](docs/faq/telegram-chat-id.md)
 - [区块 RPC 节点稳定性说明指南‼️](./docs/faq/rpc-endpoint.md)
 
-## 🏝️ 社区交流
-
-- **Telegram 群组**：[https://t.me/BEpusdtChat](https://t.me/BEpusdtChat)
-- **Telegram 频道**：[https://t.me/BEpusdtChannel](https://t.me/BEpusdtChannel)
-
 ## 🙏 致谢
 
 - [EPusdt](./docs/faq/epusdt.md)
-
-## 🌟 Star 历史
-
-[![Stargazers over time](https://starchart.cc/v03413/bepusdt.svg)](https://starchart.cc/v03413/bepusdt)

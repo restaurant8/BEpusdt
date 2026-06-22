@@ -3,7 +3,6 @@
     <div class="footer_title">
       <div class="left-placeholder"></div>
       <span @click="onBEpusdt" class="primary-copyright">{{ currentYear }} © BEpusdt. All rights reserved.</span>
-      <span class="secondary-info">Powered by SnowAdmin</span>
     </div>
   </a-layout-footer>
 </template>
