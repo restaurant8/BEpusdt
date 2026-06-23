@@ -11,9 +11,9 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/static"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/static"
 )
 
 func staticInit(e *gin.Engine) {

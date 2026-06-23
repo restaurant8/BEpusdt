@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/model"
 )
 
 // 区块扫描队列最大长度，避免可能因为 Rpc Rate Limit 问题导致消费队列堆积，进而导致OOM，暂时简单限制队列长度

@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/v03413/bepusdt/app/handler/base"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/handler/base"
+	"github.com/restaurant8/bepusdt/app/model"
 )
 
 type Rate struct {

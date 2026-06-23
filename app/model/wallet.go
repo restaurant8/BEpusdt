@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/v03413/bepusdt/app/conf"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/utils"
 	"github.com/xssnick/tonutils-go/address"
 )
 

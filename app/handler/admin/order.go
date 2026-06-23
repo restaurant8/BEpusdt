@@ -5,10 +5,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/shopspring/decimal"
-	"github.com/v03413/bepusdt/app/handler/base"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/app/task/notify"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/handler/base"
+	"github.com/restaurant8/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/task/notify"
+	"github.com/restaurant8/bepusdt/app/utils"
 )
 
 type Order struct {

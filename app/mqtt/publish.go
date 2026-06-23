@@ -2,7 +2,7 @@ package mqtt
 
 import (
 	mqtt "github.com/eclipse/paho.mqtt.golang"
-	"github.com/v03413/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/log"
 )
 
 // Publish 发布消息。若 MQTT 未连接则静默丢弃，返回 nil。

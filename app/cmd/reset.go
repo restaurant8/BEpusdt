@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/urfave/cli/v3"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/app/task"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/task"
+	"github.com/restaurant8/bepusdt/app/utils"
 	"golang.org/x/crypto/bcrypt"
 )
 

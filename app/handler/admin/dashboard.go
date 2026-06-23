@@ -8,8 +8,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/shopspring/decimal"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/handler/base"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/handler/base"
+	"github.com/restaurant8/bepusdt/app/model"
 	"github.com/v03413/go-cache"
 )
 

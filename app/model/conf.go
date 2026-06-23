@@ -9,7 +9,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/utils"
 	"github.com/v03413/go-cache"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"

@@ -6,8 +6,8 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/urfave/cli/v3"
-	"github.com/v03413/bepusdt/app/cmd"
-	"github.com/v03413/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/cmd"
+	"github.com/restaurant8/bepusdt/app/conf"
 )
 
 func init() {

@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	applog "github.com/v03413/bepusdt/app/log"
+	applog "github.com/restaurant8/bepusdt/app/log"
 	"github.com/glebarez/sqlite"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/model"
 	"gorm.io/gorm"
 )
 

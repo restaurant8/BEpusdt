@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/shopspring/decimal"
-	"github.com/v03413/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/conf"
 )
 
 // supportFiat 支持的法定货币

@@ -8,8 +8,8 @@ import (
 
 	"github.com/shopspring/decimal"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/utils"
 )
 
 type OrderParams struct {

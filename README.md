@@ -11,19 +11,19 @@
 </p>
 <p align="center">
 <a href="https://www.gnu.org/licenses/gpl-3.0.html">
-    <img src="https://img.shields.io/github/license/v03413/bepusdt" alt="license GPLV3">
+    <img src="https://img.shields.io/github/license/restaurant8/BEpusdt" alt="license GPLV3">
 </a>
-<a href="https://github.com/v03413/bepusdt">
-  <img src="https://img.shields.io/github/v/release/v03413/bepusdt" alt="GitHub Release">
+<a href="https://github.com/restaurant8/BEpusdt/releases">
+  <img src="https://img.shields.io/github/v/release/restaurant8/BEpusdt" alt="GitHub Release">
 </a>
-<a href="https://github.com/v03413/bepusdt">
-  <img src="https://img.shields.io/github/downloads/v03413/bepusdt/total" alt="GitHub Release">
+<a href="https://github.com/restaurant8/BEpusdt/releases">
+  <img src="https://img.shields.io/github/downloads/restaurant8/BEpusdt/total" alt="GitHub Downloads">
 </a>
-<a href="https://hub.docker.com/r/v03413/bepusdt">
-    <img src="https://img.shields.io/docker/pulls/v03413/bepusdt?style=flat-square&logo=docker" alt="Docker Pulls">
+<a href="https://github.com/restaurant8/BEpusdt/pkgs/container/bepusdt">
+    <img src="https://img.shields.io/badge/ghcr.io-restaurant8%2Fbepusdt-blue?logo=docker" alt="GHCR Image">
 </a>
-<a href="https://github.com/gin-gonic/gin">
-    <img src="https://img.shields.io/github/stars/v03413/bepusdt?style=flat-square&logo=github" alt="GitHub Stars">
+<a href="https://github.com/restaurant8/BEpusdt">
+    <img src="https://img.shields.io/github/stars/restaurant8/BEpusdt?style=flat-square&logo=github" alt="GitHub Stars">
 </a>
 </p>
 

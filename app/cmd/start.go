@@ -12,12 +12,12 @@ import (
 
 	"context"
 
-	"github.com/v03413/bepusdt/app"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/app/notifier"
-	"github.com/v03413/bepusdt/app/router"
-	"github.com/v03413/bepusdt/app/task"
+	"github.com/restaurant8/bepusdt/app"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/notifier"
+	"github.com/restaurant8/bepusdt/app/router"
+	"github.com/restaurant8/bepusdt/app/task"
 )
 
 import (

@@ -13,9 +13,9 @@ import (
 	"github.com/shopspring/decimal"
 	"github.com/spf13/cast"
 	"github.com/tidwall/gjson"
-	"github.com/v03413/bepusdt/app"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/utils"
 	"gorm.io/gorm"
 )
 

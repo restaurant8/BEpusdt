@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/v03413/bepusdt/app/conf"
-	"github.com/v03413/bepusdt/app/handler/base"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/app/notifier"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/handler/base"
+	"github.com/restaurant8/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/notifier"
+	"github.com/restaurant8/bepusdt/app/utils"
 )
 
 type Conf struct {

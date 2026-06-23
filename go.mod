@@ -1,4 +1,4 @@
-module github.com/v03413/bepusdt
+module github.com/restaurant8/bepusdt
 
 go 1.26.2
 

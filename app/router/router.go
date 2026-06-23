@@ -9,9 +9,9 @@ import (
 	"github.com/gin-contrib/sessions/memstore"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/conf"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/model"
 	"github.com/v03413/go-cache"
 )
 
@@ -131,7 +131,7 @@ func noRoute() gin.HandlerFunc {
 
 func copyright() gin.HandlerFunc {
 	return func(ctx *gin.Context) {
-		ctx.Writer.Header().Set("Payment-Gateway", "https://github.com/v03413/BEpusdt")
+		ctx.Writer.Header().Set("Payment-Gateway", "https://github.com/restaurant8/BEpusdt")
 	}
 }
 

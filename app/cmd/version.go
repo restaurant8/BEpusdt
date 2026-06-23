@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/urfave/cli/v3"
-	"github.com/v03413/bepusdt/app"
+	"github.com/restaurant8/bepusdt/app"
 )
 
 var Version = &cli.Command{

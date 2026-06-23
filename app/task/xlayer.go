@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/smallnest/chanx"
-	"github.com/v03413/bepusdt/app/conf"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/utils"
 )
 
 func xlayerInit() {

@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/model"
 )
 
 func init() {

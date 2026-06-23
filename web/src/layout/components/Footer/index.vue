@@ -10,7 +10,7 @@
 <script setup lang="ts">
 const currentYear = ref(new Date().getFullYear());
 const onBEpusdt = () => {
-  window.open("https://github.com/v03413/BEpusdt", "_blank");
+  window.open("https://github.com/restaurant8/BEpusdt", "_blank");
 };
 </script>
 

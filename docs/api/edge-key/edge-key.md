@@ -75,5 +75,5 @@
 
 ## 相关链接
 
-- [BEpusdt 项目主页](https://github.com/v03413/bepusdt)
+- [BEpusdt 项目主页](https://github.com/restaurant8/bepusdt)
 - [EdgeKey 项目主页](https://github.com/34892002/edgeKey)

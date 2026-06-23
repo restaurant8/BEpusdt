@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/v03413/bepusdt/app/handler/admin"
+	"github.com/restaurant8/bepusdt/app/handler/admin"
 )
 
 func adminInit(e *gin.Engine) {

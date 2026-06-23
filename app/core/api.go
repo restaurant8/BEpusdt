@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/tidwall/gjson"
-	"github.com/v03413/bepusdt/app"
-	"github.com/v03413/bepusdt/app/conf"
-	"github.com/v03413/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app"
+	"github.com/restaurant8/bepusdt/app/conf"
+	"github.com/restaurant8/bepusdt/app/log"
 )
 
 type Api struct {

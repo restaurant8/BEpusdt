@@ -3,7 +3,7 @@ package notifier
 import (
 	"testing"
 
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/model"
 )
 
 func TestNonOrderTransferTitleUsesMatchAddress(t *testing.T) {

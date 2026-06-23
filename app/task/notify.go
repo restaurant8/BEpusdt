@@ -4,11 +4,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/app/notifier"
-	"github.com/v03413/bepusdt/app/task/notify"
-	"github.com/v03413/bepusdt/app/utils"
+	"github.com/restaurant8/bepusdt/app/log"
+	"github.com/restaurant8/bepusdt/app/model"
+	"github.com/restaurant8/bepusdt/app/notifier"
+	"github.com/restaurant8/bepusdt/app/task/notify"
+	"github.com/restaurant8/bepusdt/app/utils"
 )
 
 func init() {
